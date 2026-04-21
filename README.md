@@ -1,1 +1,1 @@
-# muj-prvni-repozitar popis projektu
+# ahoj svete!

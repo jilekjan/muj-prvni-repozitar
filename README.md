@@ -1,1 +1,1 @@
-# muj-prvni-repozitar
+# muj-prvni-repozitar popis projektu

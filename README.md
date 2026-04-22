@@ -1,1 +1,1 @@
-# ahoj svete!
+# ahoj svete! - uprava  visual studiu
